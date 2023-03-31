@@ -1,6 +1,5 @@
 
-Site para Adoção de Animais
-
+<strong>Site para Adoção de Animais</strong>
 
 Este projeto é um desafio back-end proposto como parte do meu Curso de Programador FullStack 
 para validar meus conhecimentos em HTML/CSS/JS e Node.js. 
