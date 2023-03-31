@@ -1,20 +1,22 @@
 
 <h1> <strong>Site para Adoção de Animais </strong> </h1>
 
-Este projeto é um desafio back-end proposto como parte do meu Curso de Programador FullStack 
+<h2> Este projeto é um desafio back-end proposto como parte do meu Curso de Programador FullStack 
 para validar meus conhecimentos em HTML/CSS/JS e Node.js. 
 O objetivo do projeto é criar um site que funcione como uma página para ajudar na adoção de animais. 
-O site deve incluir as seguintes seções:
+O site deve incluir as seguintes seções: </h2>
 
-1.Menu de navegação
+<ul>
+<li> Menu de navegação </li>
 
-2.Header (Banner)
+<li> Header (Banner) </li>
 
-3.Campo de busca para filtrar os animais por nome
+<li> Campo de busca para filtrar os animais por nome </li> 
 
-4.Troca de páginas, cada uma com sua listagem de animais
+<li> Troca de páginas, cada uma com sua listagem de animais </li>
 
-5.Footer
+<li> Footer </li>
+</ul>
 
 Layout e recursos da página para dispositivos móveis e desktop.
 
