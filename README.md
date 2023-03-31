@@ -8,9 +8,13 @@ O objetivo do projeto é criar um site que funcione como uma página para ajudar
 O site deve incluir as seguintes seções:
 
 1.Menu de navegação
+
 2.Header (Banner)
+
 3.Campo de busca para filtrar os animais por nome
+
 4.Troca de páginas, cada uma com sua listagem de animais
+
 5.Footer
 
 Layout e recursos da página para dispositivos móveis e desktop.
@@ -20,15 +24,20 @@ Funcionalidades
 
 
 1.Visualização de animais disponíveis para adoção
+
 2.Busca de animais por nome
+
 3.Paginação das listas de animais
 
 
 Tecnologias Utilizadas
 
 1.Node.js
+
 2.Typescript
+
 3.Express
+
 4.Mustache
 
 Como Contribuir
@@ -36,11 +45,17 @@ Como Contribuir
 Se você gostaria de contribuir para o desenvolvimento deste projeto, siga estas instruções:
 
 1.Faça um fork deste repositório.
+
 2.Crie uma nova branch com suas alterações: git checkout -b minha-branch.
+
 3.Faça as alterações desejadas e salve os arquivos.
+
 4.Adicione suas alterações: git add .
+
 5.Faça um commit das suas alterações: git commit -m "Minha contribuição".
+
 6.Envie suas alterações para o GitHub: git push origin minha-branch.
+
 7.Envie uma solicitação de pull request para este repositório.
 
 
